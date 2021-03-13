@@ -20,7 +20,7 @@ wallpaperplugin=org.kde.image
 PreloadWeight=0
 
 [Containments][22][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/backgrounds/hefftorlinux_4k/stary-night.jpg
+Image=file:///usr/share/backgrounds/hefftorlinux_4k/perfect background.jpg
 
 [Containments][26]
 ItemGeometriesHorizontal=
@@ -68,7 +68,7 @@ PreloadWeight=0
 
 [Containments][42][Wallpaper][org.kde.image][General]
 FillMode=0
-Image=file:///usr/share/backgrounds/hefftorlinux_4k/stary-night.jpg
+Image=file:///usr/share/backgrounds/hefftorlinux_4k/perfect background.jpg
 SlidePaths=/usr/share/wallpapers
 
 [Containments][43]
@@ -85,7 +85,7 @@ wallpaperplugin=org.kde.image
 PreloadWeight=2
 
 [Containments][43][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/backgrounds/hefftorlinux_4k/stary-night.jpg
+Image=file:///usr/share/backgrounds/hefftorlinux_4k/perfect background.jpg
 
 [Containments][44]
 ItemGeometriesHorizontal=
@@ -105,7 +105,7 @@ DialogWidth=800
 PreloadWeight=2
 
 [Containments][44][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/backgrounds/hefftorlinux_4k/stary-night.jpg
+Image=file:///usr/share/backgrounds/hefftorlinux_4k/perfect background.jpg
 SlidePaths=/usr/share/wallpapers
 
 [Containments][47]
